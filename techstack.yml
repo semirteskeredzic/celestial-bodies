@@ -1,0 +1,29 @@
+repo_name: semirteskeredzic/celestial-bodies
+report_id: 9732407f9c17523a6ab06947588a0f54
+repo_type: Public
+timestamp: '2023-11-09T17:09:04+00:00'
+requested_by: semirteskeredzic
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source: universe.sql
+  last_updated_by: Semir Teskeredzic
+  last_updated_on: 2022-06-28 15:51:09.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
